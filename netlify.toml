@@ -1,0 +1,5 @@
+# Netlify Configuration
+[[redirects]]
+  from = "/*"
+  to = "/progress-tracker.html"
+  status = 200
